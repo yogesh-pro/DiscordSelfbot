@@ -1,0 +1,12 @@
+discord.py
+mtranslate
+colorthief
+moviepy
+requests
+emoji
+black
+pyfiglet
+colorama
+BeautifulSoup4
+psutil
+nekos.py
